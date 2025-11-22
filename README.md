@@ -27,5 +27,5 @@ It goes beyond simple enumeration by generating **intelligence reports**, identi
 
 1. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/egnake/Sherlock-OSINT.git
    cd sherlock_entegre

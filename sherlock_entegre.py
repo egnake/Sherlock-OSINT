@@ -100,7 +100,7 @@ def main():
     ██╔══╝  ██║   ██║██║╚██╗██║██╔══██║██╔═██╗ ██╔══╝  
     ███████╗╚██████╔╝██║ ╚████║██║  ██║██║  ██╗███████╗
     ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-    {Fore.WHITE}    v5.0 - Intelligence Edition
+    {Fore.WHITE}  OSINT ARAMA ARACI - EGNAKE v5.0
     {Style.RESET_ALL}"""
     
     print(banner)
@@ -139,4 +139,5 @@ def main():
     save_report(username, found_list, dorks)
 
 if __name__ == "__main__":
+
     main()

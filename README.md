@@ -27,5 +27,5 @@ It goes beyond simple enumeration by generating **intelligence reports**, identi
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/egnake/Dijital-Golge.git](https://github.com/egnake/Dijital-Golge.git)
+   git clone 
    cd sherlock_entegre

@@ -29,3 +29,6 @@ It goes beyond simple enumeration by generating **intelligence reports**, identi
    ```bash
    git clone https://github.com/egnake/Sherlock-OSINT.git
    cd sherlock_entegre
+2. **Usage**
+   ```bash
+   python sherlock_entegre.py

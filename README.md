@@ -40,3 +40,10 @@ It goes beyond simple enumeration by generating **intelligence reports**, identi
     ██╔══╝  ██║   ██║██║╚██╗██║██╔══██║██╔═██╗ ██╔══╝  
     ███████╗╚██████╔╝██║ ╚████║██║  ██║██║  ██╗███████╗
     ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+
+## ⚠️ Disclaimer
+This tool is designed for educational purposes and ethical security testing only.
+
+Do not use this tool to harass, stalk, or violate the privacy of individuals.
+
+The developer (@egnake) is not responsible for any misuse of this software.
